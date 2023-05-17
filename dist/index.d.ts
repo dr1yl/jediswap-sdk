@@ -4,3 +4,4 @@ export { BigintIsh, ChainId, TradeType, Rounding, FACTORY_ADDRESS, PAIR_CLASS_HA
 export * from './errors';
 export * from './entities';
 export * from './router';
+export * from './fetcher';
